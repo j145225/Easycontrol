@@ -1,12 +1,7 @@
 easycontrol/*.iml
 easycontrol/.gradle
 easycontrol/local.properties
-easycontrol/.idea/caches
-easycontrol/.idea/libraries
-easycontrol/.idea/modules.xml
-easycontrol/.idea/workspace.xml
-easycontrol/.idea/navEditor.xml
-easycontrol/.idea/assetWizardSettings.xml
+easycontrol/.idea
 easycontrol/.DS_Store
 easycontrol/build
 easycontrol/local.properties
